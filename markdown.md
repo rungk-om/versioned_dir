@@ -18,6 +18,6 @@ normal text ~~Strikethrough this~~
 2. Second item
 ..*sub-list 
 
-[Link to cheat sheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Link to cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
  
